@@ -162,4 +162,4 @@ void account(void)
     printf("\n\nUSERNAME.. ");
     scanf("%s", &u1.username);
  
-    printf("\n\nPASSWORD..");
+    printf("\n\nPASSWORD..");hiiiiii
