@@ -163,4 +163,5 @@ void account(void)
     scanf("%s", &u1.username);
  
     printf("\n\nPASSWORD..");hiiiiii
->>>>>>> 69d4c208fe81a553f244ed8cc8988f644d68eb24
+
+//Anshu code statrs here
