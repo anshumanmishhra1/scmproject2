@@ -69,7 +69,7 @@ int main()
     printf("WELCOME TO BANK ACCOUNT SYSTEM\n\n");
     gotoxy(18, 5);
  
-    printf("***********************************\n");
+    printf("************************************\n");
     gotoxy(25, 7);
  
     printf("DEVELOPER-Anubhav Garg\n");
